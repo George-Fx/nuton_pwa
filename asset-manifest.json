@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4c801d7.css",
+    "main.js": "/static/js/main.0ef7bc9a.js",
+    "static/media/03.png": "/static/media/03.579a33e6f351f52dac66.png",
+    "static/media/01.png": "/static/media/01.d7c91fa7191ff40b0636.png",
+    "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
+    "static/media/Lato-Bold.ttf": "/static/media/Lato-Bold.636be8de934918e38ed9.ttf",
+    "static/media/LeagueSpartan-Bold.ttf": "/static/media/LeagueSpartan-Bold.c311dbd01e80ebe50942.ttf",
+    "static/media/LeagueSpartan-SemiBold.ttf": "/static/media/LeagueSpartan-SemiBold.eb71c3a8fa3a8659a3f7.ttf",
+    "static/media/LeagueSpartan-Medium.ttf": "/static/media/LeagueSpartan-Medium.a8c3b9360d69edbcf13e.ttf",
+    "static/media/LeagueSpartan-Regular.ttf": "/static/media/LeagueSpartan-Regular.09958bb07a94a6a4f1bb.ttf",
+    "static/media/LeagueSpartan-Light.ttf": "/static/media/LeagueSpartan-Light.354c1d0b29bf33854f9c.ttf",
+    "static/media/12.png": "/static/media/12.801110be884570bd1bd3.png",
+    "static/media/08.png": "/static/media/08.87f41a9e7bcde73ab46b.png",
+    "index.html": "/index.html",
+    "main.e4c801d7.css.map": "/static/css/main.e4c801d7.css.map",
+    "main.0ef7bc9a.js.map": "/static/js/main.0ef7bc9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4c801d7.css",
+    "static/js/main.0ef7bc9a.js"
+  ]
+}
